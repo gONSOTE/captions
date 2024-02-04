@@ -8,7 +8,7 @@
   ]
  },
  {
-  "translatedText": "Sin embargo, la cuestión es que hay cierta sutileza en este tema y muchas paradojas potenciales si no se tiene cuidado.",
+  "translatedText": "El problema es que hay cierta sutileza en este tema y pueden aparecer muchas paradojas si no tienes cuidado.",
   "input": "The thing is though, there's some subtlety to this topic, and a lot of potential for paradoxes if you're not careful.",
   "time_range": [
    19.16,
@@ -16,7 +16,7 @@
   ]
  },
  {
-  "translatedText": "Entonces, un objetivo secundario es que puedas apreciar cuáles son esas paradojas y cómo evitarlas.",
+  "translatedText": "Entonces, un objetivo secundario es que puedas identificar cuáles son esas paradojas y cómo evitarlas.",
   "input": "So a secondary goal is that you have an appreciation for what those paradoxes are and how to avoid them.",
   "time_range": [
    24.78,
@@ -24,7 +24,7 @@
   ]
  },
  {
-  "translatedText": "Verá, es común que la gente diga que la derivada mide una tasa de cambio instantánea, pero cuando lo piensas, esa frase es en realidad un oxímoron.",
+  "translatedText": "Verás, es común que la gente diga que la derivada mide una tasa de cambio instantánea, pero cuando lo piensas, esa frase es en realidad un oxímoron.",
   "input": "You see, it's common for people to say that the derivative measures an instantaneous rate of change, but when you think about it, that phrase is actually an oxymoron.",
   "time_range": [
    31.22,
@@ -32,7 +32,7 @@
   ]
  },
  {
-  "translatedText": "El cambio es algo que ocurre entre puntos separados en el tiempo, y cuando te ciegas a todo menos a un instante, en realidad no hay lugar para el cambio.",
+  "translatedText": "El cambio es algo que ocurre entre puntos separados en el tiempo, y cuando te centras en un solo instante, en realidad no hay lugar para el cambio.",
   "input": "Change is something that happens between separate points in time, and when you blind yourself to all but just a single instant, there's not really any room for change.",
   "time_range": [
    40.24,
@@ -40,7 +40,7 @@
   ]
  },
  {
-  "translatedText": "Verás más a qué me refiero a medida que avancemos en ello, pero cuando aprecias que una frase como tasa de cambio instantánea en realidad no tiene sentido, creo que te hace apreciar cuán inteligentes fueron los padres del cálculo al capturar la idea de esa frase. pretende evocar, pero con una operación matemática perfectamente sensata, la derivada.",
+  "translatedText": "Verás más a qué me refiero a medida que nos adentremos en ello, pero cuando identifiques que una frase como tasa de cambio instantánea en realidad no tiene sentido, creo que te hace darte cuenta cuán inteligentes fueron los padres del cálculo al capturar la idea que esa frase quiere decir, pero con una idea matemática perfectamente sensata, la derivada.",
   "input": "You'll see what I mean more as we get into it, but when you appreciate that a phrase like instantaneous rate of change is actually nonsense, I think it makes you appreciate just how clever the fathers of calculus were in capturing the idea that phrase is meant to evoke, but with a perfectly sensible piece of math, the derivative.",
   "time_range": [
    49.5,
@@ -48,7 +48,7 @@
   ]
  },
  {
-  "translatedText": "Como ejemplo central, quiero que imagines un automóvil que arranca en algún punto A, acelera y luego desacelera hasta detenerse en algún punto B a 100 metros de distancia, y digamos que todo sucede en el transcurso de 10 segundos.",
+  "translatedText": "Como nuestro ejemplo central, quiero que te imagines un auto que inicia en algún punto A, acelera y luego desacelera hasta detenerse en algún punto B a 100 metros de distancia, y digamos que todo eso sucede en el transcurso de 10 segundos.",
   "input": "As our central example, I want you to imagine a car that starts at some point A, speeds up, and then slows down to a stop at some point B 100 meters away, and let's say it all happens over the course of 10 seconds.",
   "time_range": [
    67.54,
@@ -56,7 +56,7 @@
   ]
  },
  {
-  "translatedText": "Ésa es la configuración que debemos tener en cuenta al establecer cuál es la derivada.",
+  "translatedText": "Ésa es la configuración que debemos tener en cuenta al establecer qué es la derivada.",
   "input": "That's the setup to have in mind as we lay out what the derivative is.",
   "time_range": [
    80.52,
@@ -64,7 +64,7 @@
   ]
  },
  {
-  "translatedText": "Bueno, podríamos graficar este movimiento, dejando que el eje vertical represente la distancia recorrida y el eje horizontal represente el tiempo, de modo que en cada instante t, representado con un punto en algún lugar del eje horizontal, la altura de la gráfica nos dice a qué distancia se encuentra el movimiento. el auto ha viajado en total después de ese período de tiempo.",
+  "translatedText": "Bueno, podríamos graficar este movimiento, representando la distancia recorrida con el eje vertical y el tiempo con el eje horizontal, de modo que en cada instante t, representado con un punto en algún lugar del eje horizontal, la altura de este gráfico nos diga cuánto el auto ha recorrido hasta ese momento",
   "input": "Well, we could graph this motion, letting the vertical axis represent the distance traveled, and the horizontal axis represent time, so at each time t, represented with a point somewhere on the horizontal axis, the height of the graph tells us how far the car has traveled in total after that amount of time.",
   "time_range": [
    83.9,
@@ -80,7 +80,7 @@
   ]
  },
  {
-  "translatedText": "Yo usaría la letra d para distancia, pero ese tipo ya tiene otro trabajo de tiempo completo en cálculo.",
+  "translatedText": "Yo usaría la letra d para distancia, pero nuestro amigo ahí ya está ocupado en cálculo para otra cosa",
   "input": "I would use the letter d for distance, but that guy already has another full time job in calculus.",
   "time_range": [
    110.16,
@@ -88,7 +88,7 @@
   ]
  },
  {
-  "translatedText": "Inicialmente, la curva es bastante plana, ya que el coche tarda en arrancar.",
+  "translatedText": "Inicialmente, la curva es bastante plana, ya que el auto tarda en arrancar.",
   "input": "Initially, the curve is quite shallow, since the car is slow to start.",
   "time_range": [
    116.5,
@@ -104,7 +104,7 @@
   ]
  },
  {
-  "translatedText": "Durante los siguientes segundos, a medida que el automóvil acelera, la distancia recorrida en un segundo determinado aumenta, lo que corresponde a una pendiente más pronunciada en este gráfico.",
+  "translatedText": "Durante los siguientes segundos, a medida que el auto acelera, la distancia recorrida en un segundo determinado aumenta, lo que corresponde a una pendiente más pronunciada en este gráfico.",
   "input": "For the next few seconds, as the car speeds up, the distance traveled in a given second gets larger, which corresponds to a steeper slope in this graph.",
   "time_range": [
    124.98,
@@ -112,7 +112,7 @@
   ]
  },
  {
-  "translatedText": "Luego, hacia el final, cuando se desacelera, esa curva vuelve a disminuir.",
+  "translatedText": "Luego, hacia el final, cuando desacelera, esa curva vuelve a aplanarse.",
   "input": "Then towards the end, when it slows down, that curve shallows out again.",
   "time_range": [
    133.8,
@@ -120,7 +120,7 @@
   ]
  },
  {
-  "translatedText": "Si tuviéramos que trazar la velocidad del automóvil en metros por segundo en función del tiempo, podría verse así.",
+  "translatedText": "Si tuviéramos que trazar la velocidad del auto en metros por segundo como una función del tiempo, podría verse así.",
   "input": "If we were to plot the car's velocity in meters per second as a function of time, it might look like this bump.",
   "time_range": [
    140.76,
@@ -128,7 +128,7 @@
   ]
  },
  {
-  "translatedText": "En los primeros tiempos, la velocidad es muy pequeña.",
+  "translatedText": "Al principio, la velocidad es muy pequeña.",
   "input": "At early times, the velocity is very small.",
   "time_range": [
    147.86,
@@ -144,7 +144,7 @@
   ]
  },
  {
-  "translatedText": "Luego vuelve a desacelerarse hasta alcanzar una velocidad cero.",
+  "translatedText": "Luego vuelve a desacelerar hasta alcanzar una velocidad cero.",
   "input": "Then it slows back down towards a speed of zero.",
   "time_range": [
    157.66,
@@ -160,7 +160,7 @@
   ]
  },
  {
-  "translatedText": "Si cambia la distancia específica vs.",
+  "translatedText": "Si cambias la función específica de distancia",
   "input": "If you change the specific distance vs.",
   "time_range": [
    164.84,
@@ -168,7 +168,7 @@
   ]
  },
  {
-  "translatedText": "función de tiempo, tendrás una velocidad diferente vs.",
+  "translatedText": "y tiempo, tendrás una función de velocidad",
   "input": "time function, you'll have some different velocity vs.",
   "time_range": [
    167.26,
@@ -176,7 +176,7 @@
   ]
  },
  {
-  "translatedText": "función de tiempo.",
+  "translatedText": "y tiempo distinta",
   "input": "time function.",
   "time_range": [
    170.42,
@@ -192,7 +192,7 @@
   ]
  },
  {
-  "translatedText": "¿Exactamente cómo depende la velocidad de la distancia vs.",
+  "translatedText": "¿Exactamente cómo depende la velocidad de la función",
   "input": "Exactly how does velocity depend on a distance vs.",
   "time_range": [
    175.68,
@@ -200,7 +200,7 @@
   ]
  },
  {
-  "translatedText": "función de tiempo?",
+  "translatedText": "de distancia y tiempo?",
   "input": "time function?",
   "time_range": [
    179.4,
@@ -216,7 +216,7 @@
   ]
  },
  {
-  "translatedText": "Intuitivamente, todos podemos saber qué significa la velocidad en un momento dado, es simplemente lo que muestra el velocímetro del automóvil en ese momento.",
+  "translatedText": "Intuitivamente, todos podemos saber qué significa la velocidad en un momento dado, es simplemente lo que muestra el velocímetro del auto en ese momento.",
   "input": "Intuitively, we all might know what velocity at a given moment means, it's just whatever the car's speedometer shows in that moment.",
   "time_range": [
    188.38,
@@ -224,7 +224,7 @@
   ]
  },
  {
-  "translatedText": "Intuitivamente, podría tener sentido que la velocidad del automóvil sea mayor en momentos en que esta función de distancia es más pronunciada, cuando el automóvil recorre más distancia por unidad de tiempo.",
+  "translatedText": "Intuitivamente, podría tener sentido que la velocidad del auto sea mayor en momentos en que esta función de distancia sea más empinada, cuando el auto recorre más distancia por unidad de tiempo.",
   "input": "Intuitively, it might make sense that the car's velocity should be higher at times when this distance function is steeper, when the car traverses more distance per unit time.",
   "time_range": [
    197.18,
@@ -232,7 +232,7 @@
   ]
  },
  {
-  "translatedText": "Pero lo curioso es que la velocidad en un solo momento no tiene sentido.",
+  "translatedText": "Pero lo curioso aquí es, que la velocidad en un solo instante no tiene sentido.",
   "input": "But the funny thing is, velocity at a single moment makes no sense.",
   "time_range": [
    206.7,
@@ -240,7 +240,7 @@
   ]
  },
  {
-  "translatedText": "Si te muestro una foto de un coche, sólo una instantánea en un instante, y te pregunto a qué velocidad va, no tendrías forma de decírmelo.",
+  "translatedText": "Si te muestro la foto de un auto, sólo una instantánea en un instante, y te pregunto a qué velocidad va, no tendrías forma de decírmelo.",
   "input": "If I show you a picture of a car, just a snapshot in an instant, and I ask you how fast it's going, you'd have no way of telling me.",
   "time_range": [
    211.36,
@@ -256,7 +256,7 @@
   ]
  },
  {
-  "translatedText": "De esa manera puedes calcular cualquier cambio en la distancia a lo largo de esos tiempos, dividido por el cambio en el tiempo.",
+  "translatedText": "De esa manera puedes calcular cualquier cambio en la distancia a lo largo de esos momentos, dividido por el cambio en el tiempo.",
   "input": "That way you can compute whatever the change in distance across those times is, divided by the change in time.",
   "time_range": [
    223.18,
@@ -264,7 +264,7 @@
   ]
  },
  {
-  "translatedText": "¿Bien?",
+  "translatedText": "¿Cierto?",
   "input": "Right?",
   "time_range": [
    229.56,
@@ -280,7 +280,7 @@
   ]
  },
  {
-  "translatedText": "Entonces, ¿cómo es que estamos viendo una función para la velocidad que solo toma un valor único de t, una única instantánea en el tiempo?",
+  "translatedText": "Entonces, ¿cómo es que estamos viendo una función para la velocidad que solo toma un valor de t, una única foto en el tiempo?",
   "input": "So how is it that we're looking at a function for velocity that only takes in a single value of t, a single snapshot in time?",
   "time_range": [
    235.62,
@@ -312,7 +312,7 @@
   ]
  },
  {
-  "translatedText": "Estás lidiando con los mismos conflictos que enfrentaron los padres del cálculo.",
+  "translatedText": "Estás lidiando con los mismos problemas que enfrentaron los padres del cálculo.",
   "input": "You're grappling with the same conflicts that the fathers of calculus did.",
   "time_range": [
    257.92,
@@ -320,7 +320,7 @@
   ]
  },
  {
-  "translatedText": "Y si se quiere comprender en profundidad las tasas de cambio, no sólo de un automóvil en movimiento, sino de todo tipo de cosas científicas, será necesario resolver esta aparente paradoja.",
+  "translatedText": "Y si se quiere comprender en profundidad las tasas de cambio, no sólo de un auto en movimiento, sino de todo tipo de cosas científicas, será necesario resolver esta aparente paradoja.",
   "input": "And if you want a deep understanding for rates of change, not just for a moving car, but for all sorts of things in science, you're going to need to resolve this apparent paradox.",
   "time_range": [
    261.38,
@@ -336,7 +336,7 @@
   ]
  },
  {
-  "translatedText": "Pensemos en lo que probablemente esté haciendo el velocímetro del coche.",
+  "translatedText": "Pensemos en lo que probablemente esté haciendo el velocímetro del auto.",
   "input": "Let's think about what the car's speedometer is probably doing.",
   "time_range": [
    277.54,
@@ -344,7 +344,7 @@
   ]
  },
  {
-  "translatedText": "En algún momento, digamos a los 3 segundos del viaje, el velocímetro podría medir qué tan lejos llega el automóvil en un período de tiempo muy pequeño, tal vez la distancia recorrida entre 3 segundos y 3,01 segundos.",
+  "translatedText": "En algún momento, digamos a los 3 segundos del viaje, el velocímetro podría medir qué tan lejos llega el auto en un período de tiempo muy pequeño, tal vez la distancia recorrida entre 3 segundos y 3,01 segundos.",
   "input": "At some point, say 3 seconds into the journey, the speedometer might measure how far the car goes in a very small amount of time, maybe the distance traveled between 3 seconds and 3.01 seconds.",
   "time_range": [
    281.2,
@@ -352,7 +352,7 @@
   ]
  },
  {
-  "translatedText": "Luego podría calcular la velocidad en metros por segundo dividiendo esa pequeña distancia recorrida en metros por ese pequeño tiempo, 0,01 segundos.",
+  "translatedText": "Luego podría calcular la velocidad en metros por segundo, dividiendo esa pequeña distancia recorrida en metros por ese pequeño tiempo, 0,01 segundos.",
   "input": "Then it could compute the speed in meters per second as that tiny distance traversed in meters divided by that tiny time, 0.01 seconds.",
   "time_range": [
    293.36,
@@ -360,7 +360,7 @@
   ]
  },
  {
-  "translatedText": "Es decir, un automóvil físico simplemente evita la paradoja y en realidad no calcula la velocidad en un solo momento.",
+  "translatedText": "Es decir, un auto real simplemente evita la paradoja y en realidad no calcula la velocidad en un solo momento.",
   "input": "That is, a physical car just side-steps the paradox and doesn't actually compute speed at a single point in time.",
   "time_range": [
    302.9,
@@ -368,7 +368,7 @@
   ]
  },
  {
-  "translatedText": "Calcula la velocidad durante un período de tiempo muy pequeño.",
+  "translatedText": "Calcula la velocidad durante un período muy pequeño de tiempo.",
   "input": "It computes speed during a very small amount of time.",
   "time_range": [
    308.78,
@@ -376,7 +376,7 @@
   ]
  },
  {
-  "translatedText": "Así que llamemos a esa diferencia de tiempo dt, que podría considerarse como 0,01 segundos, y llamemos a la diferencia resultante en distancia ds.",
+  "translatedText": "Así que llamemos a esa diferencia de tiempo dt, que podrías imaginar como 0,01 segundos, y llamemos a la diferencia resultante en distancia ds.",
   "input": "So let's call that difference in time dt, which you might think of as 0.01 seconds, and let's call that resulting difference in distance ds.",
   "time_range": [
    313.18,
@@ -384,7 +384,7 @@
   ]
  },
  {
-  "translatedText": "Entonces, la velocidad en algún momento es ds dividida por dt, el pequeño cambio en la distancia respecto del pequeño cambio en el tiempo.",
+  "translatedText": "Entonces, la velocidad en algún momento es ds dividida por dt, el pequeño cambio en la distancia partido en el pequeño cambio en el tiempo.",
   "input": "So the velocity at some point in time is ds divided by dt, the tiny change in distance over the tiny change in time.",
   "time_range": [
    322.96,
@@ -392,7 +392,7 @@
   ]
  },
  {
-  "translatedText": "Gráficamente, puedes imaginarte haciendo zoom en algún punto de esta distancia vs.",
+  "translatedText": "Gráficamente, puedes imaginarte haciendo zoom en algún punto de este gráfico de distancia",
   "input": "Graphically, you can imagine zooming in on some point of this distance vs.",
   "time_range": [
    331.58,
@@ -400,7 +400,7 @@
   ]
  },
  {
-  "translatedText": "El gráfico de tiempo sobre t es igual a 3.",
+  "translatedText": "y tiempo, arriba de t igual a 3",
   "input": "time graph above t equals 3.",
   "time_range": [
    335.5,
@@ -408,7 +408,7 @@
   ]
  },
  {
-  "translatedText": "Que dt es un pequeño paso hacia la derecha, ya que el tiempo está en el eje horizontal, y que ds es el cambio resultante en la altura del gráfico, ya que el eje vertical representa la distancia recorrida.",
+  "translatedText": "Ese dt es un pequeño paso hacia la derecha, ya que el tiempo está en el eje horizontal, y ese ds es el cambio resultante en la altura del gráfico, ya que el eje vertical representa la distancia recorrida.",
   "input": "That dt is a small step to the right, since time is on the horizontal axis, and that ds is the resulting change in the height of the graph, since the vertical axis represents the distance traveled.",
   "time_range": [
    338.56,
@@ -416,7 +416,7 @@
   ]
  },
  {
-  "translatedText": "Entonces, ds dividido por dt es algo que se puede considerar como el aumento sobre la pendiente de ejecución entre dos puntos muy cercanos en este gráfico.",
+  "translatedText": "Entonces, ds dividido por dt es algo que puedes pensar como la pendiente entre dos puntos muy cercanos en este gráfico.",
   "input": "So ds divided by dt is something you can think of as the rise over run slope between two very close points on this graph.",
   "time_range": [
    351.22,
@@ -424,7 +424,7 @@
   ]
  },
  {
-  "translatedText": "Por supuesto, no hay nada especial en el hecho de que el valor t sea igual a 3.",
+  "translatedText": "Por supuesto, no hay nada especial de este valor de t",
   "input": "Of course, there's nothing special about the value t equals 3.",
   "time_range": [
    360.7,
@@ -432,7 +432,7 @@
   ]
  },
  {
-  "translatedText": "Podríamos aplicar esto a cualquier otro momento, por lo que consideramos que esta expresión ds sobre dt es una función de t, algo en lo que puedo darte un tiempo t y tú puedes devolverme el valor de esta relación en ese momento. la velocidad en función del tiempo.",
+  "translatedText": "Podríamos aplicar esto a cualquier otro instante en el tiempo, por lo que consideramos que esta expresión ds sobre dt como una función de t, algo en lo que puedo darte un tiempo t y tú puedes devolverme el valor de esta fracción en ese momento, la velocidad como función del tiempo.",
   "input": "We could apply this to any other point in time, so we consider this expression ds over dt to be a function of t, something where I can give you a time t and you can give me back the value of this ratio at that time, the velocity as a function of time.",
   "time_range": [
    363.94,
@@ -440,7 +440,7 @@
   ]
  },
  {
-  "translatedText": "Por ejemplo, cuando le pedí a la computadora que dibujara esta curva de relieve aquí, la que representa la función de velocidad, esto es lo que realmente le pedí a la computadora que hiciera.",
+  "translatedText": "Por ejemplo, cuando le pedí a la computadora que dibujara esta curva de aquí, la que representa la función de velocidad, esto es lo que realmente le pedí a la computadora que hiciera.",
   "input": "For example, when I had the computer draw this bump curve here, the one representing the velocity function, here's what I had the computer actually do.",
   "time_range": [
    379.6,
@@ -456,7 +456,7 @@
   ]
  },
  {
-  "translatedText": "Luego hice que la computadora observara un montón de veces t entre 0 y 10, y calculara la función de distancia s en t más dt, y luego restara el valor de esa función en t.",
+  "translatedText": "Luego hice que la computadora contemplase un montón instantes t entre 0 y 10, y calculara la función de distancia s en t más dt, y luego restara el valor de esa función en t.",
   "input": "Then I had the computer look at a whole bunch of times t between 0 and 10, and compute the distance function s at t plus dt, and then subtract off the value of that function at t.",
   "time_range": [
    393.44,
