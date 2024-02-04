@@ -16,7 +16,7 @@
   ]
  },
  {
-  "translatedText": "El objetivo aquí, como sugiere el nombre, es sacar realmente el corazón del tema en un conjunto que se pueda ver en exceso.",
+  "translatedText": "El objetivo aquí, como el nombre sugiere, es sacar realmente el corazón del tema en una sola maratón de videos.",
   "input": "The goal here, as the name suggests, is to really get the heart of the subject out in one binge-watchable set.",
   "time_range": [
    24.3,
@@ -40,7 +40,7 @@
   ]
  },
  {
-  "translatedText": "Muchas fórmulas derivadas, la regla del producto, la regla de la cadena, la diferenciación implícita, el hecho de que integrales y derivadas son opuestas, series de Taylor, muchas cosas así.",
+  "translatedText": "Muchas fórmulas de las derivadas, la regla del producto, la regla de la cadena, la diferenciación implícita, el hecho de que las integrales y las derivadas son opuestas, series de Taylor, muchas cosas así.",
   "input": "Lots of derivative formulas, the product rule, the chain rule, implicit differentiation, the fact that integrals and derivatives are opposite, Taylor series, just a lot of things like that.",
   "time_range": [
    42.48,
@@ -48,7 +48,7 @@
   ]
  },
  {
-  "translatedText": "Y mi objetivo es que usted se sienta como si usted mismo hubiera inventado el cálculo.",
+  "translatedText": "Y mi objetivo es termines sintiendo que puedieses haber inventado el cálculo tu mismo",
   "input": "And my goal is for you to come away feeling like you could have invented calculus yourself.",
   "time_range": [
    52.96,
@@ -56,7 +56,7 @@
   ]
  },
  {
-  "translatedText": "Es decir, cubrir todas esas ideas centrales, pero de una manera que deje claro de dónde provienen realmente y qué significan realmente, utilizando un enfoque visual completo.",
+  "translatedText": "Es decir, cubrir todas esas ideas centrales, pero de una manera que deje claro de dónde vienen realmente y qué significan realmente, utilizando un enfoque visual completo.",
   "input": "That is, cover all those core ideas, but in a way that makes clear where they actually come from, and what they really mean, using an all-around visual approach.",
   "time_range": [
    57.64,
@@ -64,7 +64,7 @@
   ]
  },
  {
-  "translatedText": "Inventar matemáticas no es una broma y hay una diferencia entre que te digan por qué algo es cierto y generarlo desde cero.",
+  "translatedText": "Inventar matemáticas no es pan comido y hay una diferencia entre que te digan por qué algo es cierto y generarlo tu mismo desde cero.",
   "input": "Inventing math is no joke, and there is a difference between being told why something's true, and actually generating it from scratch.",
   "time_range": [
    66.92,
@@ -72,7 +72,7 @@
   ]
  },
  {
-  "translatedText": "Pero en todo momento quiero que pienses: si fueras uno de los primeros matemáticos, reflexionaras sobre estas ideas y dibujaras los diagramas correctos, ¿te parece razonable que hubieras tropezado con estas verdades por ti mismo?",
+  "translatedText": "Pero en todo momento quiero que pienses: si fueras uno de los matemáticos de hace siglos, reflexionando sobre estas ideas y dibujando los diagramas correctos, ¿te parece razonable que hubieras encontrado con estas verdades por ti mismo?",
   "input": "But at all points, I want you to think to yourself, if you were an early mathematician, pondering these ideas and drawing out the right diagrams, does it feel reasonable that you could have stumbled across these truths yourself?",
   "time_range": [
    74.68,
@@ -80,7 +80,7 @@
   ]
  },
  {
-  "translatedText": "En este vídeo inicial, quiero mostrar cómo puedes tropezar con las ideas centrales del cálculo al pensar muy profundamente en una parte específica de la geometría, el área de un círculo.",
+  "translatedText": "En este vídeo inicial, quiero mostrarte cómo te podrías encontrar con las ideas centrales del cálculo al pensar muy profundamente en una parte específica de la geometría, el área de un círculo.",
   "input": "In this initial video, I want to show how you might stumble into the core ideas of calculus by thinking very deeply about one specific bit of geometry, the area of a circle.",
   "time_range": [
    86.82,
@@ -104,7 +104,7 @@
   ]
  },
  {
-  "translatedText": "Bueno, contemplar este problema y dejarse abierto a explorar los pensamientos interesantes que surjan puede llevarle a vislumbrar tres grandes ideas en cálculo: las integrales, las derivadas y el hecho de que son opuestas.",
+  "translatedText": "Bueno, contemplando este problema y dejándote abierto a explorar los pensamientos interesantes que surjan puede llevarte a dar un vistazo a tres grandes ideas en cálculo: las integrales, las derivadas y el hecho de que son opuestas.",
   "input": "Well, contemplating this problem and leaving yourself open to exploring the interesting thoughts that come about can actually lead you to a glimpse of three big ideas in calculus, integrals, derivatives, and the fact that they're opposites.",
   "time_range": [
    105.42,
@@ -120,7 +120,7 @@
   ]
  },
  {
-  "translatedText": "Estás tratando de calcular su área, y después de revisar un montón de papel probando diferentes formas de cortar y reorganizar las piezas de esa área, muchas de las cuales podrían conducir a sus propias observaciones interesantes, tal vez pruebes la idea de cortando el círculo en muchos anillos concéntricos.",
+  "translatedText": "Estás tratando de calcular su área, y después de gastar un montón de papel probando diferentes formas de cortar y reorganizar las piezas de esa área, muchas de las cuales podrían conducir a sus propias observaciones interesantes, tal vez intentes la idea de cortar el círculo en muchos anillos concéntricos.",
   "input": "You're trying to figure out its area, and after going through a lot of paper trying different ways to chop up and rearrange the pieces of that area, many of which might lead to their own interesting observations, maybe you try out the idea of slicing up the circle into many concentric rings.",
   "time_range": [
    125.7,
@@ -152,7 +152,7 @@
   ]
  },
  {
-  "translatedText": "Tal vez empieces imaginando enderezar este anillo.",
+  "translatedText": "Tal vez empieces imaginando que estiras este anillo.",
   "input": "Maybe you start by imagining straightening out this ring.",
   "time_range": [
    166.42,
@@ -168,7 +168,7 @@
   ]
  },
  {
-  "translatedText": "El ancho de ese rectángulo es la circunferencia del anillo original, que es 2 pi por r, ¿verdad?",
+  "translatedText": "El ancho de ese rectángulo es el perímetro del anillo original, que es 2 pi por r, ¿verdad?",
   "input": "The width of that rectangle is the circumference of the original ring, which is 2 pi times r, right?",
   "time_range": [
    180.18,
@@ -184,7 +184,7 @@
   ]
  },
  {
-  "translatedText": "¿Y su espesor?",
+  "translatedText": "¿Y su ancho?",
   "input": "And its thickness?",
   "time_range": [
    188.68,
@@ -200,7 +200,7 @@
   ]
  },
  {
-  "translatedText": "Con el ánimo de utilizar lo que se convertirá en notación de cálculo estándar, llamemos a ese espesor dr para una pequeña diferencia en el radio de un anillo al siguiente.",
+  "translatedText": "Con el ánimo de utilizar lo que se convertirá en la notación estándar de cálculo, llamemos a ese ancho dr para una pequeña diferencia en el radio de un anillo al siguiente.",
   "input": "In the spirit of using what will come to be standard calculus notation, let's call that thickness dr for a tiny difference in the radius from one ring to the next.",
   "time_range": [
    196.34,
@@ -208,7 +208,7 @@
   ]
  },
  {
-  "translatedText": "Quizás lo consideres algo así como 0.1.",
+  "translatedText": "Quizás te lo imagines algo así como 0,1.",
   "input": "Maybe you think of it as something like 0.1.",
   "time_range": [
    205.48,
@@ -216,7 +216,7 @@
   ]
  },
  {
-  "translatedText": "Entonces, aproximando este anillo desenvuelto como un rectángulo delgado, su área es 2 pi por r, el radio, multiplicado por dr, el pequeño espesor.",
+  "translatedText": "Entonces, aproximando este anillo desenvuelto como un rectángulo delgado, su área es 2 pi por r, el radio, multiplicado por dr, el pequeño ancho.",
   "input": "So approximating this unwrapped ring as a thin rectangle, its area is 2 pi times r, the radius, times dr, the little thickness.",
   "time_range": [
    208.98,
@@ -224,7 +224,7 @@
   ]
  },
  {
-  "translatedText": "Y aunque eso no es perfecto, para opciones cada vez más pequeñas de dr, esta será en realidad una aproximación cada vez mejor para esa área, ya que los lados superior e inferior de esta forma se acercarán cada vez más a ser exactamente la misma longitud.",
+  "translatedText": "Y aunque eso no es perfecto, para opciones cada vez más pequeñas de dr, esta será en realidad una aproximación cada vez mejor para esa área, ya que los lados de arriba y abajo de esta figura se acercarán cada vez más a ser de exactamente la misma longitud.",
   "input": "And even though that's not perfect, for smaller and smaller choices of dr, this is actually going to be a better and better approximation for that area, since the top and the bottom sides of this shape are going to get closer and closer to being exactly the same length.",
   "time_range": [
    218.6,
@@ -248,7 +248,7 @@
   ]
  },
  {
-  "translatedText": "Entonces, para resumir dónde estamos, has dividido el área del círculo en todos estos anillos, y estás aproximando el área de cada uno de ellos como 2 pi por su radio por dr, donde el valor específico porque ese radio interior varía desde 0 para el anillo más pequeño hasta poco menos de 3 para el anillo más grande, espaciado por el grosor que elija para dr, algo así como 0,1.",
+  "translatedText": "Entonces, solo para resumir en dónde estamos, dividiste el área del círculo en todos estos anillos, y estás aproximando el área de cada uno de ellos como 2 pi por su radio por dr, donde el valor específico porque ese radio interior varía desde 0 para el anillo más pequeño hasta poco menos de 3 para el anillo más grande, separado por el ancho que elijas para dr, algo así como 0,1.",
   "input": "So just to sum up where we are, you've broken up the area of the circle into all of these rings, and you're approximating the area of each one of those as 2 pi times its radius times dr, where the specific value for that inner radius ranges from 0 for the smallest ring up to just under 3 for the biggest ring, spaced out by whatever the thickness is that you choose for dr, something like 0.1.",
   "time_range": [
    247.7,
@@ -256,7 +256,7 @@
   ]
  },
  {
-  "translatedText": "Y observe que el espacio entre los valores aquí corresponde al espesor dr de cada anillo, la diferencia de radio de un anillo al siguiente.",
+  "translatedText": "Y observa que el espacio entre los valores aquí corresponde al ancho dr de cada anillo, la diferencia de radio de un anillo al siguiente.",
   "input": "And notice that the spacing between the values here corresponds to the thickness dr of each ring, the difference in radius from one ring to the next.",
   "time_range": [
    273.14,
@@ -280,7 +280,7 @@
   ]
  },
  {
-  "translatedText": "Esa es la circunferencia del anillo correspondiente al que se aproxima este rectángulo.",
+  "translatedText": "Ese es el perímetro del anillo que su respectivo rectángulo está aproximando.",
   "input": "That's the circumference of the corresponding ring that this rectangle approximates.",
   "time_range": [
    304.64,
@@ -288,7 +288,7 @@
   ]
  },
  {
-  "translatedText": "Imágenes como esta, 2 pi r, pueden ser altas para la pantalla, quiero decir, 2 por pi por 3 es alrededor de 19, así que simplemente generemos un eje con una escala un poco diferente para que podamos ajustar todos estos rectángulos en la pantalla.",
+  "translatedText": "Imágenes como esta, 2 pi r, pueden llegar a ser muy altas para la pantalla, quiero decir, 2 por pi por 3 es alrededor de 19, así que simplemente pongamos un eje y a una escala un poco distinta para que todos estos rectángulos quepan en la pantalla.",
   "input": "Pictures like this 2 pi r can get tall for the screen, I mean 2 times pi times 3 is around 19, so let's just throw up a y axis that's scaled a little differently so that we can actually fit all of these rectangles on the screen.",
   "time_range": [
    309.56,
@@ -296,7 +296,7 @@
   ]
  },
  {
-  "translatedText": "Una buena manera de pensar en esta configuración es dibujar la gráfica de 2 pi r, que es una línea recta que tiene una pendiente de 2 pi.",
+  "translatedText": "Una buena forma de pensar en esta configuración es dibujar la gráfica de 2 pi r, que es una línea recta que tiene una pendiente de 2 pi.",
   "input": "A nice way to think about this setup is to draw the graph of 2 pi r, which is a straight line that has a slope 2 pi.",
   "time_range": [
    323.26,
@@ -312,7 +312,7 @@
   ]
  },
  {
-  "translatedText": "Nuevamente, estamos siendo aproximados aquí.",
+  "translatedText": "Nuevamente, estamos aproximando aquí.",
   "input": "Again, we're being approximate here.",
   "time_range": [
    336.0,
@@ -320,7 +320,7 @@
   ]
  },
  {
-  "translatedText": "Cada uno de estos rectángulos sólo se aproxima al área del anillo correspondiente del círculo.",
+  "translatedText": "Cada uno de estos rectángulos sólo aproxima el área de su anillo correspondiente del círculo.",
   "input": "Each of these rectangles only approximates the area of the corresponding ring from the circle.",
   "time_range": [
    337.9,
@@ -328,7 +328,7 @@
   ]
  },
  {
-  "translatedText": "Pero recuerde que esa aproximación, 2 pi r por dr, se vuelve cada vez menos errónea a medida que el tamaño de dr se hace cada vez más pequeño.",
+  "translatedText": "Pero recuerde que esa aproximación, 2 pi r por dr, se vuelve cada vez mejor a medida que el tamaño de dr se hace cada vez más pequeño.",
   "input": "But remember, that approximation, 2 pi r times dr, gets less and less wrong as the size of dr gets smaller and smaller.",
   "time_range": [
    342.94,
@@ -344,7 +344,7 @@
   ]
  },
  {
-  "translatedText": "Para opciones cada vez más pequeñas de dr, al principio se podría pensar que eso convierte el problema en una suma monstruosamente grande.",
+  "translatedText": "Para opciones cada vez más pequeñas de dr, al principio podrías pensar que esto convierte el problema en una suma monstruosamente grande.",
   "input": "For smaller and smaller choices of dr, you might at first think that turns the problem into a monstrously large sum.",
   "time_range": [
    357.08,
@@ -352,7 +352,7 @@
   ]
  },
  {
-  "translatedText": "Quiero decir, hay muchos rectángulos que considerar, y la precisión decimal de cada una de sus áreas será una absoluta pesadilla.",
+  "translatedText": "Quiero decir, hay muchísimos rectángulos que sumar, y la precisión quirúrjica de cada una de sus áreas será una absoluta locura.",
   "input": "I mean, there's many many rectangles to consider, and the decimal precision of each one of their areas is going to be an absolute nightmare.",
   "time_range": [
    363.6,
@@ -360,7 +360,7 @@
   ]
  },
  {
-  "translatedText": "Pero observe que todas sus áreas en conjunto se parecen al área debajo de un gráfico.",
+  "translatedText": "Pero observe, todas sus áreas en conjunto se parecen al área debajo de un gráfico.",
   "input": "But notice, all of their areas in aggregate just looks like the area under a graph.",
   "time_range": [
    370.06,
@@ -368,7 +368,7 @@
   ]
  },
  {
-  "translatedText": "Y esa porción debajo del gráfico es solo un triángulo, un triángulo con una base de 3 y una altura de 2 pi por 3.",
+  "translatedText": "Y ese pedazo debajo del gráfico es tan solo un triángulo, un triángulo de base 3 y altura 2 pi por 3.",
   "input": "And that portion under the graph is just a triangle, a triangle with a base of 3 and a height that's 2 pi times 3.",
   "time_range": [
    375.98,
@@ -376,7 +376,7 @@
   ]
  },
  {
-  "translatedText": "Entonces su área, 1 mitad de base por altura, resulta ser exactamente pi por 3 al cuadrado.",
+  "translatedText": "Entonces su área, base por altura partido en 2, resulta ser exactamente pi por 3 al cuadrado.",
   "input": "So its area, 1 half base times height, works out to be exactly pi times 3 squared.",
   "time_range": [
    384.14,
@@ -384,7 +384,7 @@
   ]
  },
  {
-  "translatedText": "O si el radio de nuestro círculo original tuviera algún otro valor, R mayúscula, esa área resulta ser pi multiplicada por r al cuadrado.",
+  "translatedText": "O si el radio de nuestro círculo original tuviera algún otro valor, R mayúscula, esa área resulta ser pi por r al cuadrado.",
   "input": "Or if the radius of our original circle was some other value, capital R, that area comes out to be pi times r squared.",
   "time_range": [
    391.36,
@@ -400,7 +400,7 @@
   ]
  },
  {
-  "translatedText": "No importa quién sea usted o qué piense normalmente de las matemáticas, ese es un hermoso argumento.",
+  "translatedText": "No importa quién seas o qué pienses normalmente de las matemáticas, eso de ahí es un argumento hermoso.",
   "input": "It doesn't matter who you are or what you typically think of math, that right there is a beautiful argument.",
   "time_range": [
    402.32,
@@ -408,7 +408,7 @@
   ]
  },
  {
-  "translatedText": "Pero si aquí quieres pensar como un matemático, no solo te importa encontrar la respuesta, sino que también te importa desarrollar herramientas y técnicas generales para la resolución de problemas.",
+  "translatedText": "Pero si aquí quieres pensar como un matemático, no solo te importa encontrar la respuesta, sino que también te importa desarrollar herramientas y técnicas para la resolución de problemas en general.",
   "input": "But if you want to think like a mathematician here, you don't just care about finding the answer, you care about developing general problem-solving tools and techniques.",
   "time_range": [
    410.18,
@@ -416,7 +416,7 @@
   ]
  },
  {
-  "translatedText": "Así que tómate un momento para meditar sobre qué acaba de suceder exactamente y por qué funcionó, porque la forma en que hicimos la transición de algo aproximado a algo preciso es en realidad bastante sutil y afecta profundamente de qué se trata el cálculo.",
+  "translatedText": "Así que tómate un momento para meditar sobre qué acaba de pasar exactamente y por qué funcionó, porque la forma en que hicimos la transición de algo aproximado a algo preciso es en realidad bastante sutil y se adentra profundamente sobre lo qué se trata el cálculo.",
   "input": "So take a moment to meditate on what exactly just happened and why it worked, because the way we transitioned from something approximate to something precise is actually pretty subtle and cuts deep to what calculus is all about.",
   "time_range": [
    419.68,
@@ -424,7 +424,7 @@
   ]
  },
  {
-  "translatedText": "Tenías este problema que podía aproximarse con la suma de muchos números pequeños, cada uno de los cuales parecía 2 pi r multiplicado por dr, para valores de r que oscilaban entre 0 y 3.",
+  "translatedText": "Tenías este problema que podía aproximarse con la suma de muchos números pequeños, cada uno de los cuales era 2 pi r multiplicado por dr, para valores de r que van entre 0 y 3.",
   "input": "You had this problem that could be approximated with the sum of many small numbers, each of which looked like 2 pi r times dr, for values of r ranging between 0 and 3.",
   "time_range": [
    433.82,
@@ -432,7 +432,7 @@
   ]
  },
  {
-  "translatedText": "Recuerde, el número pequeño dr aquí representa nuestra elección para el grosor de cada anillo, por ejemplo 0,1.",
+  "translatedText": "Recuerde, el número pequeño dr aquí representa nuestra selección para el ancho de cada anillo, por ejemplo 0,1.",
   "input": "Remember, the small number dr here represents our choice for the thickness of each ring, for example 0.1.",
   "time_range": [
    446.6,
@@ -448,7 +448,7 @@
   ]
  },
  {
-  "translatedText": "En primer lugar, dr no solo es un factor en las cantidades que estamos sumando, 2 pi r por dr, sino que también proporciona el espacio entre los diferentes valores de r.",
+  "translatedText": "Primero que nada, dr no solo es un factor en lo que estamos sumando, 2 pi r por dr, sino que también nos da el espacio entre los distintos valores de r.",
   "input": "First of all, not only is dr a factor in the quantities we're adding up, 2 pi r times dr, it also gives the spacing between the different values of r.",
   "time_range": [
    456.08,
@@ -456,7 +456,7 @@
   ]
  },
  {
-  "translatedText": "Y en segundo lugar, cuanto menor sea nuestra elección de dr, mejor será la aproximación.",
+  "translatedText": "Y segundo, cuanto menor sea nuestra selección de dr, mejor será la aproximación.",
   "input": "And secondly, the smaller our choice for dr, the better the approximation.",
   "time_range": [
    466.24,
@@ -472,7 +472,7 @@
   ]
  },
  {
-  "translatedText": "Entonces, y esto es clave, al considerar opciones cada vez más pequeñas para dr, correspondientes a aproximaciones cada vez mejores del problema original, la suma, considerada como el área agregada de esos rectángulos, se aproxima al área bajo el gráfico.",
+  "translatedText": "Entonces, y esto es clave, al considerar opciones cada vez más pequeñas para dr, correspondientes a aproximaciones cada vez mejores del problema original, la suma, considerada como la suma de todos esos rectángulos, se acerca al área debajo del gráfico.",
   "input": "Then, and this is key, by considering smaller and smaller choices for dr, corresponding to better and better approximations of the original problem, the sum, thought of as the aggregate area of those rectangles, approaches the area under the graph.",
   "time_range": [
    482.94,
@@ -480,7 +480,7 @@
   ]
  },
  {
-  "translatedText": "Y debido a eso, puedes concluir que la respuesta a la pregunta original, con total precisión no aproximada, es exactamente la misma que el área debajo de este gráfico.",
+  "translatedText": "Y debido a eso, puedes concluir que la respuesta a la pregunta original, con total precisión y sin aproximar, es exactamente la misma que el área debajo de este gráfico.",
   "input": "And because of that, you can conclude that the answer to the original question, in full unapproximated precision, is exactly the same as the area underneath this graph.",
   "time_range": [
    499.0,
@@ -488,7 +488,7 @@
   ]
  },
  {
-  "translatedText": "Muchos otros problemas difíciles en matemáticas y ciencias se pueden descomponer y aproximar como la suma de muchas cantidades pequeñas, como calcular qué distancia ha viajado un automóvil en función de su velocidad en cada momento.",
+  "translatedText": "Muchos otros problemas difíciles en matemáticas y ciencias se pueden resolver y aproximar como la suma de muchas cantidades pequeñas, como calcular qué distancia ha viajado un auto en función de su velocidad en cada momento.",
   "input": "A lot of other hard problems in math and science can be broken down and approximated as the sum of many small quantities, like figuring out how far a car has traveled based on its velocity at each point in time.",
   "time_range": [
    510.86,
@@ -496,7 +496,7 @@
   ]
  },
  {
-  "translatedText": "En un caso como ese, podría recorrer muchos puntos diferentes en el tiempo y en cada uno de ellos multiplicar la velocidad en ese momento por un pequeño cambio en el tiempo, dt, lo que daría la correspondiente pequeña distancia recorrida durante ese breve tiempo.",
+  "translatedText": "En un caso como ese, podrías ir por muchos puntos distintos en el tiempo y en cada uno de ellos multiplicar la velocidad en ese preciso momento por un pequeño cambio en el tiempo, dt, lo que te daría la correspondiente poca distancia recorrida durante ese poco tiempo.",
   "input": "In a case like that, you might range through many different points in time, and at each one multiply the velocity at that time times a tiny change in time, dt, which would give the corresponding little bit of distance traveled during that little time.",
   "time_range": [
    524.76,
@@ -504,7 +504,7 @@
   ]
  },
  {
-  "translatedText": "Hablaré de los detalles de ejemplos como este más adelante en la serie, pero en un nivel alto muchos de estos tipos de problemas resultan ser equivalentes a encontrar el área bajo una gráfica, de manera muy similar a como lo hizo nuestro problema del círculo. .",
+  "translatedText": "Hablaré de los detalles de ejemplos como este más adelante en la serie, pero en un nivel general muchos de estos tipos de problemas resultan ser equivalentes a encontrar el área debajo de una gráfica, de una forma muy similar a como lo hizo nuestro problema del círculo. .",
   "input": "I'll talk through the details of examples like this later in the series, but at a high level many of these types of problems turn out to be equivalent to finding the area under some graph, in much the same way that our circle problem did.",
   "time_range": [
    539.26,
@@ -512,7 +512,7 @@
   ]
  },
  {
-  "translatedText": "Esto sucede siempre que las cantidades que estás sumando, aquella cuya suma se aproxima al problema original, pueden considerarse como las áreas de muchos rectángulos delgados uno al lado del otro.",
+  "translatedText": "Esto sucede siempre que las cantidades que estás sumando, aquellas cuya suma se aproxima al problema original, pueden pensarse como las áreas de muchos rectángulos delgados uno al lado del otro.",
   "input": "This happens whenever the quantities you're adding up, the one whose sum approximates the original problem, can be thought of as the areas of many thin rectangles sitting side by side.",
   "time_range": [
    553.2,
@@ -520,7 +520,7 @@
   ]
  },
  {
-  "translatedText": "Si aproximaciones cada vez más finas del problema original corresponden a anillos cada vez más delgados, entonces el problema original equivale a encontrar el área bajo alguna gráfica.",
+  "translatedText": "Si aproximaciones cada vez más finas del problema original corresponden a anillos cada vez más delgados, entonces el problema original es equivalente a encontrar el área bajo alguna gráfica.",
   "input": "If finer and finer approximations of the original problem correspond to thinner and thinner rings, then the original problem is equivalent to finding the area under some graph.",
   "time_range": [
    564.64,
@@ -528,7 +528,7 @@
   ]
  },
  {
-  "translatedText": "Nuevamente, esta es una idea que veremos con más detalle más adelante en la serie, así que no te preocupes si no está 100% clara en este momento.",
+  "translatedText": "Nuevamente, esta es una idea que veremos con más detalle más adelante en la serie, así que no te preocupes si no está 100% claro en este momento.",
   "input": "Again, this is an idea we'll see in more detail later in the series, so don't worry if it's not 100% clear right now.",
   "time_range": [
    576.6,
@@ -536,7 +536,7 @@
   ]
  },
  {
-  "translatedText": "El punto ahora es que usted, como matemático que acaba de resolver un problema reformulándolo como el área bajo una gráfica, podría comenzar a pensar en cómo encontrar las áreas bajo otras gráficas.",
+  "translatedText": "El punto ahora es que tu, como matemático que acaba de resolver un problema reformulándolo como el área bajo una gráfica, podría comenzar a pensar en cómo encontrar las áreas bajo otras gráficas.",
   "input": "The point now is that you, as the mathematician having just solved a problem by reframing it as the area under a graph, might start thinking about how to find the areas under other graphs.",
   "time_range": [
    583.78,
@@ -544,7 +544,7 @@
   ]
  },
  {
-  "translatedText": "Tuvimos suerte en el problema del círculo porque el área relevante resultó ser un triángulo, pero imaginamos en lugar de eso algo así como una parábola, la gráfica de x2.",
+  "translatedText": "Tuvimos suerte en el problema del círculo porque el área que buscabamos resultó ser un triángulo, pero imaginamos en lugar de eso algo así como una parábola, la gráfica de x al cuadrado.",
   "input": "We were lucky in the circle problem that the relevant area turned out to be a triangle, but imagine instead something like a parabola, the graph of x2.",
   "time_range": [
    595.64,
@@ -568,7 +568,7 @@
   ]
  },
  {
-  "translatedText": "Y permítanme reformular esa pregunta de una manera ligeramente diferente.",
+  "translatedText": "Y permítanme preguntar esa pregunta de una manera un poco distinta",
   "input": "And let me reframe that question in a slightly different way.",
   "time_range": [
    615.22,
@@ -576,7 +576,7 @@
   ]
  },
  {
-  "translatedText": "Fijaremos ese punto final izquierdo en 0 y dejaremos que el punto final derecho varíe.",
+  "translatedText": "Fijaremos ese extremo izquierdo en 0 y dejaremos que el extremo derecho varíe.",
   "input": "We'll fix that left endpoint in place at 0, and let the right endpoint vary.",
   "time_range": [
    618.02,
@@ -592,7 +592,7 @@
   ]
  },
  {
-  "translatedText": "Una función a de x como esta se llama integral de x2.",
+  "translatedText": "Una función a de x como esta se llama integral de x al cuadrado.",
   "input": "A function a of x like this is called an integral of x2.",
   "time_range": [
    635.62,
@@ -600,7 +600,7 @@
   ]
  },
  {
-  "translatedText": "El cálculo contiene las herramientas para descubrir qué es una integral como esta, pero en este momento es solo una función misteriosa para nosotros.",
+  "translatedText": "El cálculo contiene las herramientas para descubrir cual es una integral como esta, pero en este momento es solo una función misteriosa para nosotros.",
   "input": "Calculus holds within it the tools to figure out what an integral like this is, but right now it's just a mystery function to us.",
   "time_range": [
    640.5,
@@ -608,7 +608,7 @@
   ]
  },
  {
-  "translatedText": "Sabemos que da el área bajo la gráfica de x2 entre un punto izquierdo fijo y un punto derecho variable, pero no sabemos qué es.",
+  "translatedText": "Sabemos que da el área bajo la gráfica de x al cuadrado entre extremo izquierdo fijo y un extremo derecho variable, pero no sabemos qué es.",
   "input": "We know it gives the area under the graph of x2 between some fixed left point and some variable right point, but we don't know what it is.",
   "time_range": [
    647.5,
@@ -616,7 +616,7 @@
   ]
  },
  {
-  "translatedText": "Y nuevamente, la razón por la que nos preocupamos por este tipo de preguntas no es solo por hacer preguntas difíciles de geometría, sino porque muchos problemas prácticos que pueden aproximarse sumando una gran cantidad de cosas pequeñas pueden replantearse como una pregunta sobre una área bajo un determinado gráfico.",
+  "translatedText": "Y nuevamente, la razón por la que nos preocupamos por este tipo de preguntas no es solo por hacer preguntas difíciles de geometría, sino porque muchos problemas prácticos que pueden aproximarse sumando una gran cantidad de cosas pequeñas pueden replantearse como una pregunta sobre el área bajo un determinado gráfico.",
   "input": "And again, the reason we care about this kind of question is not just for the sake of asking hard geometry questions, it's because many practical problems that can be approximated by adding up a large number of small things can be reframed as a question about an area under a certain graph.",
   "time_range": [
    655.66,
@@ -624,7 +624,7 @@
   ]
  },
  {
-  "translatedText": "Te diré ahora mismo que encontrar esta área, esta función integral, es realmente difícil, y siempre que te encuentres con una pregunta realmente difícil en matemáticas, una buena política es no esforzarte demasiado en llegar directamente a la respuesta, ya que normalmente acabas golpeándote la cabeza contra la pared.",
+  "translatedText": "Te diré ahora mismo que encontrar esta área, esta función integral, es genuinamente difícil, y siempre que te encuentres con una pregunta geniunamente difícil en matemáticas, una buena estrategia es no esforzarte demasiado en llegar directamente a la respuesta, ya que normalmente acabas golpeándote la cabeza contra la pared.",
   "input": "I'll tell you right now that finding this area, this integral function, is genuinely hard, and whenever you come across a genuinely hard question in math, a good policy is to not try too hard to get at the answer directly, since usually you just end up banging your head against a wall.",
   "time_range": [
    673.42,
@@ -632,7 +632,7 @@
   ]
  },
  {
-  "translatedText": "En lugar de eso, juega con la idea, sin ningún objetivo particular en mente.",
+  "translatedText": "En vez, juega con la idea, sin ningún objetivo particular en mente.",
   "input": "Instead, play around with the idea, with no particular goal in mind.",
   "time_range": [
    690.08,
@@ -640,7 +640,7 @@
   ]
  },
  {
-  "translatedText": "Dedica algo de tiempo a familiarizarte con la interacción entre la función que define la gráfica, en este caso x2, y la función que da el área.",
+  "translatedText": "Dedícale algún tiempo a familiarizarte con la interacción entre la función que define la gráfica, en este caso x al cuadrado, y la función que da el área.",
   "input": "Spend some time building up familiarity with the interplay between the function defining the graph, in this case x2, and the function giving the area.",
   "time_range": [
    694.34,
@@ -648,7 +648,7 @@
   ]
  },
  {
-  "translatedText": "Con ese espíritu lúdico, si tienes suerte, aquí hay algo que quizás notes.",
+  "translatedText": "Jugando por ahí, si tienes suerte, aquí hay algo que quizás notes.",
   "input": "In that playful spirit, if you're lucky, here's something you might notice.",
   "time_range": [
    704.09,
@@ -656,7 +656,7 @@
   ]
  },
  {
-  "translatedText": "Cuando aumentas ligeramente x con un pequeño empujón dx, observa el cambio resultante en el área, representado con esta astilla que voy a llamar da por una pequeña diferencia en el área.",
+  "translatedText": "Cuando aumentas ligeramente x con un pequeño empujón dx, observa el cambio que resulta en el área, representado con este pedacito que voy a llamar da, una pequeña diferencia en el área.",
   "input": "When you slightly increase x by some tiny nudge dx, look at the resulting change in area, represented with this sliver I'm going to call da for a tiny difference in area.",
   "time_range": [
    708.58,
@@ -664,7 +664,7 @@
   ]
  },
  {
-  "translatedText": "Esa franja se puede aproximar bastante bien con un rectángulo, uno cuya altura es x2 y cuyo ancho es dx.",
+  "translatedText": "Ese pedazo se puede aproximar bastante bien con un rectángulo, uno cuya altura es x al cuadrado y cuyo ancho es dx.",
   "input": "That sliver can be pretty well approximated with a rectangle, one whose height is x2 and whose width is dx.",
   "time_range": [
    721.38,
@@ -672,7 +672,7 @@
   ]
  },
  {
-  "translatedText": "Y cuanto más pequeño es el tamaño de ese empujón dx, más se parece esa astilla a un rectángulo.",
+  "translatedText": "Y cuanto más pequeño es el tamaño de ese empujón dx, más se parece ese pedacito a un rectángulo.",
   "input": "And the smaller the size of that nudge dx, the more that sliver actually looks like a rectangle.",
   "time_range": [
    729.66,
@@ -680,7 +680,7 @@
   ]
  },
  {
-  "translatedText": "Esto nos da una manera interesante de pensar cómo se relaciona a de x con x2.",
+  "translatedText": "Esto nos da una manera interesante de pensar cómo se relaciona a de x con x al cuadrado.",
   "input": "This gives us an interesting way to think about how a of x is related to x2.",
   "time_range": [
    736.8,
@@ -688,7 +688,7 @@
   ]
  },
  {
-  "translatedText": "Un cambio en la salida de a, este pequeño da, es aproximadamente igual a x2, donde x es cualquier entrada en la que empezaste, multiplicada por dx, el pequeño empujón a la entrada que provocó que a cambiara.",
+  "translatedText": "Un cambio en el valor de a, este pequeño da, es más o menos igual a x al cuadrado, donde x es cualquier número con el que empezaste, multiplicada por dx, el pequeño empujón a ese número que hizo que a cambiara.",
   "input": "A change to the output of a, this little da, is about equal to x2, where x is whatever input you started at, times dx, the little nudge to the input that caused a to change.",
   "time_range": [
    742.0,
@@ -696,7 +696,7 @@
   ]
  },
  {
-  "translatedText": "O reordenado, da dividido por dx, la relación entre un pequeño cambio en a y el pequeño cambio en x que lo causó es aproximadamente lo que sea x2 en ese punto.",
+  "translatedText": "O reorganizado, da dividido por dx, la razón entre un pequeño cambio en a y el pequeño cambio en x que lo causó es aproximadamente lo que sea x al cuadrado en ese punto.",
   "input": "Or rearranged, da divided by dx, the ratio of a tiny change in a to the tiny change in x that caused it, is approximately whatever x2 is at that point.",
   "time_range": [
    754.78,
@@ -704,7 +704,7 @@
   ]
  },
  {
-  "translatedText": "Y esa es una aproximación que debería mejorar cada vez más para opciones cada vez más pequeñas de dx.",
+  "translatedText": "Y esa es una aproximación que debería mejorar cada vez más para selecciones cada vez más pequeñas de dx.",
   "input": "And that's an approximation that should get better and better for smaller and smaller choices of dx.",
   "time_range": [
    766.56,
@@ -728,7 +728,7 @@
   ]
  },
  {
-  "translatedText": "Cuando observa dos puntos cercanos, por ejemplo 3 y 3,001, considere el cambio en la salida de a entre esos dos puntos, la diferencia entre la función misteriosa evaluada en 3,001 y 3,001.",
+  "translatedText": "Cuando observa dos puntos cercanos, por ejemplo 3 y 3,001, considera cuanto cambió el resultado de a entre esos dos puntos, la diferencia entre la función misteriosa evaluada en 3 y 3,001.",
   "input": "When you look at two nearby points, for example 3 and 3.001, consider the change to the output of a between those two points, the difference between the mystery function evaluated at 3.001 and 3.001.",
   "time_range": [
    780.16,
@@ -736,7 +736,7 @@
   ]
  },
  {
-  "translatedText": "Ese cambio, dividido por la diferencia en los valores de entrada, que en este caso es 0,001, debería ser aproximadamente igual al valor de x2 para la entrada inicial, en este caso 3,001.",
+  "translatedText": "Ese cambio, dividido por la diferencia en los valores que elegimos, que en este caso es 0,001, debería ser casi igual al valor de x al cuadrado para el valor que pusiste al principio, en este caso 3,001.",
   "input": "That change, divided by the difference in the input values, which in this case is 0.001, should be about equal to the value of x2 for the starting input, in this case 3.001.",
   "time_range": [
    796.12,
@@ -744,7 +744,7 @@
   ]
  },
  {
-  "translatedText": "Y esta relación entre pequeños cambios en la función misteriosa y los valores de x2 en sí es cierta en todas las entradas, no solo en 3.",
+  "translatedText": "Y esta relación entre pequeños cambios en la función misteriosa y los valores de x al cuadrado en sí es cierta en todas los puntos, no solo en 3.",
   "input": "And this relationship between tiny changes to the mystery function and the values of x2 itself is true at all inputs, not just 3.",
   "time_range": [
    810.2,
@@ -760,7 +760,7 @@
   ]
  },
  {
-  "translatedText": "Y aquí no hay nada especial en el gráfico x2.",
+  "translatedText": "Y aquí no hay nada especial en el gráfico x al cuadrado.",
   "input": "And there's nothing special about the graph x2 here.",
   "time_range": [
    826.26,
@@ -768,15 +768,15 @@
   ]
  },
  {
-  "translatedText": "Cualquier función definida como el área bajo algún gráfico tiene esta propiedad, que da dividido por un ligero empujón a la salida de a dividido por un ligero empujón a la entrada que lo causó, es aproximadamente igual a la altura del gráfico en ese punto.",
-  "input": "Any function defined as the area under some graph has this property, that da divided by a slight nudge to the output of a divided by a slight nudge to the input that caused it, is about equal to the height of the graph at that point.",
+  "translatedText": "Cualquier función definida como el área bajo algún gráfico tiene esta propiedad, que da dividido por dx, un pequeño cambio al valor de a divido en el pequeño cambio a x que lo causó, es más o menos igual a la altura del gráfico en ese punto.",
+  "input": "Any function defined as the area under some graph has this property, (mistake in the subtitles here) that da divided by a slight nudge to the output of a divided by a slight nudge to the input that caused it, is about equal to the height of the graph at that point.",
   "time_range": [
    829.28,
    844.5
   ]
  },
  {
-  "translatedText": "Nuevamente, esa es una aproximación que mejora cada vez más para opciones más pequeñas de dx.",
+  "translatedText": "Nuevamente, esa es una aproximación que mejora cada vez más para selecciones más pequeñas de dx.",
   "input": "Again, that's an approximation that gets better and better for smaller choices of dx.",
   "time_range": [
    846.2,
@@ -792,7 +792,7 @@
   ]
  },
  {
-  "translatedText": "Esta relación da dividida por dx se llama derivada de a, o más técnicamente, derivada de cualquier cosa que se acerque a esta relación a medida que dx se hace cada vez más pequeño.",
+  "translatedText": "Esta fracción, da dividida por dx se llama la derivada de a, o más técnicamente, la derivada de cualquier cosa que se acerque a esta fracción a medida que dx se hace cada vez más pequeño.",
   "input": "This ratio da divided by dx is called the derivative of a, or more technically, the derivative of whatever this ratio approaches as dx gets smaller and smaller.",
   "time_range": [
    857.1,
@@ -800,7 +800,7 @@
   ]
  },
  {
-  "translatedText": "Profundizaré mucho más en la idea de una derivada en el siguiente video, pero en términos generales es una medida de qué tan sensible es una función a pequeños cambios en su entrada.",
+  "translatedText": "Profundizaré mucho más en la idea de una derivada en el siguiente video, pero es más o menos una medida de qué tanto cambia una función si cambias un poco el número que le entregas",
   "input": "I'll dive much more deeply into the idea of a derivative in the next video, but loosely speaking it's a measure of how sensitive a function is to small changes in its input.",
   "time_range": [
    868.18,
@@ -808,7 +808,7 @@
   ]
  },
  {
-  "translatedText": "A medida que avanza la serie, verás que hay muchas maneras de visualizar una derivada, dependiendo de la función que estés observando y de cómo piensas acerca de los pequeños empujones a su salida.",
+  "translatedText": "A medida que avanza la serie, verás que hay muchas maneras de visualizar una derivada, dependiendo de la función que estés viendo y de cómo piensas acerca de los pequeños empujones a su resultado.",
   "input": "You'll see as the series goes on that there are many ways you can visualize a derivative, depending on what function you're looking at and how you think about tiny nudges to its output.",
   "time_range": [
    877.94,
@@ -816,7 +816,7 @@
   ]
  },
  {
-  "translatedText": "Nos preocupamos por los derivados porque nos ayudan a resolver problemas, y en nuestra pequeña exploración aquí, ya vislumbramos una forma en que se utilizan.",
+  "translatedText": "Nos importan las derivadas porque nos ayudan a resolver problemas, y en nuestra pequeña exploración aquí, ya dimos un vistazo a una forma en la que se utilizan.",
   "input": "We care about derivatives because they help us solve problems, and in our little exploration here, we already have a glimpse of one way they're used.",
   "time_range": [
    888.6,
@@ -824,7 +824,7 @@
   ]
  },
  {
-  "translatedText": "Son la clave para resolver preguntas integrales, problemas que requieren encontrar el área bajo una curva.",
+  "translatedText": "Son la clave para resolver preguntas de integrales, problemas que requieren encontrar el área bajo una curva.",
   "input": "They are the key to solving integral questions, problems that require finding the area under a curve.",
   "time_range": [
    897.84,
@@ -832,7 +832,7 @@
   ]
  },
  {
-  "translatedText": "Una vez que te familiarices lo suficiente con la computación de derivadas, podrás ver una situación como esta en la que no sabes qué es una función, pero sí sabes que su derivada debe ser x2, y a partir de eso, aplica ingeniería inversa a lo que la función debe ser.",
+  "translatedText": "Una vez que te familiarices lo suficiente caldulando derivadas, podrás ver una situación como esta en la que no sabes qué función es la que tienes, pero sí sabes que su derivada debería ser x al cuadrado, y a partir de eso, ir de adelante hacia atrás para ver lo que la función debe ser.",
   "input": "Once you gain enough familiarity with computing derivatives, you'll be able to look at a situation like this one where you don't know what a function is, but you do know that its derivative should be x2, and from that reverse engineer what the function must be.",
   "time_range": [
    904.36,
@@ -856,7 +856,7 @@
   ]
  },
  {
-  "translatedText": "Todo esto es sólo una visión de alto nivel, sólo un vistazo a algunas de las ideas centrales que surgen en el cálculo.",
+  "translatedText": "Todo esto es sólo una visión general, sólo un vistazo a algunas de las ideas centrales que surgen en el cálculo.",
   "input": "All of this is only a high-level view, just a peek at some of the core ideas that emerge in calculus.",
   "time_range": [
    944.8,
@@ -872,7 +872,7 @@
   ]
  },
  {
-  "translatedText": "En todo momento, quiero que sientas que podrías haber inventado el cálculo tú mismo, que si hubieras hecho los dibujos correctos y jugado con cada idea de la manera correcta, estas fórmulas, reglas y construcciones que se presentan podrían haber aparecido con la misma facilidad. Naturalmente a partir de tus propias exploraciones.",
+  "translatedText": "En todo momento, quiero que sientas que podrías haber inventado el cálculo tú mismo, que si hubieras hecho los dibujos correctos y jugado con cada idea de la manera correcta, estas fórmulas, reglas y construcciones que se presentan podrían haber aparecido con la misma facilidad a partir de tus propias exploraciones.",
   "input": "At all points, I want you to feel that you could have invented calculus yourself, that if you drew the right pictures and played with each idea in just the right way, these formulas and rules and constructs that are presented could have just as easily popped out naturally from your own explorations.",
   "time_range": [
    954.98,
@@ -888,7 +888,7 @@
   ]
  },
  {
-  "translatedText": "Verá, los seguidores obtuvieron acceso temprano a los videos mientras los hice, y continuarán obteniendo acceso temprano para futuras series de esencia de tipo.",
+  "translatedText": "Verás, los patreons tuvieron acceso a los videos mientras cuando los terminaba, y continuarán obteniendo acceso temprano para futuras series del estilo la esencia de algo.",
   "input": "You see, supporters got early access to the videos as I made them, and they'll continue to get early access for future essence-of type series.",
   "time_range": [
    984.7,
@@ -896,7 +896,7 @@
   ]
  },
  {
-  "translatedText": "Y como agradecimiento a la comunidad, mantengo los anuncios de los videos nuevos durante el primer mes.",
+  "translatedText": "Y como agradecimiento a la comunidad, quito los anuncios de los videos nuevos durante el primer mes.",
   "input": "And as a thanks to the community, I keep ads off of new videos for their first month.",
   "time_range": [
    992.14,
@@ -904,7 +904,7 @@
   ]
  },
  {
-  "translatedText": "Todavía estoy asombrado de poder dedicar tiempo a trabajar en vídeos como estos y, de una manera muy directa, eres tú quien te lo agradece.",
+  "translatedText": "Todavía estoy asombrado de poder dedicar tiempo a trabajar en vídeos como estos y, de una manera muy directa, eres tú a quien agradecer.",
   "input": "I'm still astounded that I can spend time working on videos like these, and in a very direct way, you are the one to thank for that.",
   "time_range": [
    997.02,
